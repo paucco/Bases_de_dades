@@ -2,13 +2,13 @@
 
 
 ### Exercici 1
-****
+***
 A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que hi ha.
 
 
 
 ### Exercici 2
-****
+***
 Realitza la següent consulta sobre la base de dades acabada de crear: 
 
 Has d'obtenir el nom, el país i la data de naixement d'aquelles persones per les quals no consti una data de mort i ordenar les dades de la persona més vella a la persona més jove.
@@ -16,7 +16,7 @@ Has d'obtenir el nom, el país i la data de naixement d'aquelles persones per le
 
 
 ### Exercici 3
-**
+***
 Realitza la següent consulta sobre la base de dades acabada de crear: 
 
 Has d'obtenir el nom del gènere i el nombre total de pel·lícules d'aquest gènere i ordenar-ho per ordre descendent de nombre total de pel·lícules.  
