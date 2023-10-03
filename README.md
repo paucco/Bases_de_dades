@@ -1,7 +1,4 @@
-# Bases_de_dades
-(IT Academy) Curs Data Science - Sprint 1
-
-## Tasca M1 T01
+# Tasca M1 T01
 
 
 ### Exercici 1
